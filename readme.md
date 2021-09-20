@@ -1,4 +1,6 @@
 
+<img src="./assets/title.png">
+<hr>
 <img alt="Night Coding" src="./assets/handwave.gif" width='40' align="left"/><h2>Hey there! I'm Ricardo Arana</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
